@@ -3,207 +3,77 @@
   "outline": [
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 1
-    },
-    {
-      "level": "H1",
       "text": "Foundation Level Extensions",
       "page": 1
     },
     {
-      "level": "H1",
+      "level": "H2",
+      "text": "International Software Testing Qualifications Board",
+      "page": 1
+    },
+    {
+      "level": "H3",
       "text": "Revision History",
       "page": 3
     },
     {
-      "level": "H1",
-      "text": "0.1",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "18 JUNE 2013",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "0.2",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "23 JULY 2013",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "0.3",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "6 NOV 2013",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "0.7",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "11 DEC 2013",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "0.8",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "20 DEC 2013",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "1.0",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "31 MAY 2014",
-      "page": 3
-    },
-    {
-      "level": "H1",
+      "level": "H3",
       "text": "Table of Contents",
       "page": 4
     },
     {
-      "level": "H1",
+      "level": "H4",
+      "text": "Revision History",
+      "page": 4
+    },
+    {
+      "level": "H4",
       "text": "Introduction to the Foundation Level Extensions",
       "page": 4
     },
     {
-      "level": "H1",
+      "level": "H4",
       "text": "Introduction to Foundation Level Agile Tester Extension",
       "page": 4
     },
     {
-      "level": "H1",
-      "text": "2.1",
+      "level": "H4",
+      "text": "Career Paths for Testers",
       "page": 4
     },
     {
-      "level": "H1",
-      "text": "2.2",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "2.3",
-      "page": 4
-    },
-    {
-      "level": "H2",
+      "level": "H4",
       "text": "Learning Objectives",
       "page": 4
     },
     {
-      "level": "H1",
-      "text": "2.4",
+      "level": "H4",
+      "text": "Overview of the Foundation Level Extension –",
       "page": 4
     },
     {
-      "level": "H1",
-      "text": "2.5",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "2.6",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "3.1",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "3.2",
-      "page": 4
-    },
-    {
-      "level": "H1",
+      "level": "H4",
       "text": "References",
       "page": 4
     },
     {
-      "level": "H1",
-      "text": "4.1",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "4.2",
-      "page": 4
-    },
-    {
-      "level": "H1",
+      "level": "H3",
       "text": "Acknowledgements",
       "page": 5
     },
     {
-      "level": "H1",
-      "text": "Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes",
-      "page": 5
-    },
-    {
-      "level": "H1",
-      "text": "2014.",
-      "page": 5
-    },
-    {
-      "level": "H1",
-      "text": "Extensions who wants a high-level introduction to the leading principles and an overview of the individual",
+      "level": "H3",
+      "text": "Introduction to the Foundation Level Extensions",
       "page": 6
     },
     {
-      "level": "H1",
-      "text": "that is beyond the scope of this document.",
-      "page": 6
+      "level": "H3",
+      "text": "Introduction to Foundation Level Agile Tester Extension",
+      "page": 7
     },
     {
       "level": "H2",
       "text": "2.1 Intended Audience",
-      "page": 7
-    },
-    {
-      "level": "H1",
-      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
-      "page": 7
-    },
-    {
-      "level": "H1",
-      "text": "2. Junior professional testers who are just starting in the testing profession, have received the",
-      "page": 7
-    },
-    {
-      "level": "H1",
-      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
-      "page": 7
-    },
-    {
-      "level": "H1",
-      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
       "page": 7
     },
     {
@@ -215,21 +85,6 @@
       "level": "H2",
       "text": "2.3 Learning Objectives",
       "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "That said, each extension level exam focuses on the learning objectives defined in that extension",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",
-      "page": 8
     },
     {
       "level": "H2",
@@ -247,48 +102,23 @@
       "page": 9
     },
     {
+      "level": "H3",
+      "text": "Overview of the Foundation Level Extension –",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Syllabus",
+      "page": 10
+    },
+    {
       "level": "H2",
       "text": "3.1 Business Outcomes",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM1",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM2",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM3",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM4",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM5",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM6",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "scenarios, requirements and acceptance criteria as appropriate.",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "AFM7",
       "page": 10
     },
     {
@@ -297,43 +127,18 @@
       "page": 10
     },
     {
-      "level": "H1",
-      "text": "The tester should understand the advantages of the whole-team approach and the benefits of",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "The tester should recall Agile software development approaches.",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "The tester should understand how retrospectives can be used as a mechanism for process",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
-      "page": 11
-    },
-    {
-      "level": "H1",
-      "text": "The tester should be able to describe the process of evolving tests across multiple iterations and",
-      "page": 11
-    },
-    {
-      "level": "H1",
+      "level": "H4",
       "text": "criteria.",
       "page": 11
     },
     {
-      "level": "H2",
-      "text": "4.1 Trademarks",
+      "level": "H3",
+      "text": "References",
       "page": 12
     },
     {
-      "level": "H1",
-      "text": "ISTQB",
+      "level": "H2",
+      "text": "4.1 Trademarks",
       "page": 12
     },
     {
